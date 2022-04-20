@@ -1,4 +1,5 @@
-# Sphinx 主题与插件
+```{include} ../README.md
+```
 
 ```{toctree}
 :maxdepth: 2

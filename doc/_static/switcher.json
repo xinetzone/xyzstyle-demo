@@ -2,11 +2,11 @@
   {
     "name": "main",
     "version": "main",
-    "url": "https://xinetzone.github.io/xyzstyle/"
+    "url": "https://xinetzone-demo.github.io/xyzstyle/"
   },
   {
     "name": "dev",
     "version": "latest",
-    "url": "https://xyzstyle.readthedocs.io/zh/latest/"
+    "url": "https://xyzstyle-demo.readthedocs.io/zh/latest/"
   }
 ]
